@@ -12,8 +12,6 @@ else{
   s1.push(rev)
   rev="";
 }
-
-
 }
 if(rev){
   s1.push(rev)
