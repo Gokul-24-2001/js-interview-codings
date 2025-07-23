@@ -11,4 +11,3 @@ else{
        console.log(`Given ${n} is not palindGrome number`)
  
 }
-// console.log(typeof(parseInt(rev))) 
