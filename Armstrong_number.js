@@ -1,9 +1,9 @@
 let num=370;
 let n=370;
 let sum=0;
-let c=0;
+let count=0;
 for(let i=n;i>0;i=Math.floor(i/10)){
-    c++;
+    count++;
 }
 // console.log(c)
 //exponential operation (**)
